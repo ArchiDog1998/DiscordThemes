@@ -1,3 +1,4 @@
 :root{
   --embed-title: var(--text-normal);
+  --text-secondary: var(--text-normal);
 }
