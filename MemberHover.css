@@ -1,0 +1,17 @@
+.memberInner_a31c43:hover::after {
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  content: "The One";
+  text-transform: uppercase;
+  padding: 0 4px;
+  background-color: var(--brand-260);
+  background-size:cover;
+  font-size: 10px;
+  font-weight: bold;
+  height: 15px;
+  border-radius: 4px;
+  margin: auto 0 auto 4px;
+  color: #ffffff;
+}
